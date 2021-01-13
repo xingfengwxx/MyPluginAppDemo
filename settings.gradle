@@ -1,0 +1,4 @@
+include ':lib_plugin_core'
+include ':payapp'
+include ':app'
+rootProject.name = "MyPluginAppDemo"
